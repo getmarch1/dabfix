@@ -6,7 +6,7 @@ Not my work - just added to this github page for research purposes!
 
 ## Compatibility
 
-This fix is intended **only for Harman MHI2 units equipped with DAB**.
+This fix is intended **only for Harman MHI2 units equipped with DAB** - MHI2,MHI2Q (AUDI, PORSCHE, SKODA,SEAT,BENTLEY, VW)
 
 ## Installation Instructions
 
