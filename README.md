@@ -1,6 +1,7 @@
 # DAB Fix for Harman MHI2 Units
 
 **Source:** Digital Eliteboard (https://www.digital-eliteboard.com/threads/kostenloses-dabfix-fuer-harmann-mhi2-modelle.541645/)
+Not my work - just added to this github page for research purposes!
 
 ## Compatibility
 
