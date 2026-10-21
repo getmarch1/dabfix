@@ -28,6 +28,7 @@ v2 Now with Autostart
 
 - FAT32-formatted SD card
 - `metainfo2.txt`
+- `SWDLautorun.txt`
 - All required subfolders and update files
 - Compatible Harman MHI2 DAB unit
 
