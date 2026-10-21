@@ -17,7 +17,7 @@ v2 Now with Autostart
 ## Installation Instructions
 
 1. Prepare an SD card formatted as **FAT32**.
-2. Copy `metainfo2.txt`, `SWDLautorun. txt` and all required subfolders to the **root directory** of the SD card.
+2. Copy `metainfo2.txt`, `SWDLautorun.txt` and all required subfolders to the **root directory** of the SD card.
 3. Insert the SD card into **SD Slot 1**. Update has now Autostart feature
 4. ~~Open the **Red Engineering Menu**~~
 5. ~~Start the update process~~
