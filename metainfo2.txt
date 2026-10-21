@@ -1,0 +1,53 @@
+#############################################################################
+#  FreeforALL!                                                              #
+# This is the description file for the Software Update of Audi components   #
+#                                                                           #
+#############################################################################
+
+[common]
+skipSaveTrainName = "true"
+vendor = "Had"
+region = "Europe"
+region2 = "RoW"
+region3 = "USA"
+region4 = "Japan"
+region5 = "China"
+region6 = "Taiwan"
+variant = "FM2-*-*-*-*"
+variant2 = "QC2-*-*-*-*"
+variant3 = "FMQ-*-*-*-*"
+variant4 = "FMU-*-*-*-*"
+release = "FreeDabfix"
+skipMetaCRC = "true"
+skipCheckVariant = "true"
+skipCheckRegion = "true"
+
+[FreeDabfix]
+VendorInfo = "Had"
+DeviceDescription = "FreeDabfix"
+scriptPost = "./FreeDabfix/tools/postscript.sh"
+scriptPostName = "post_script"
+scriptPostCheckSum = "7615C9B9B4102346E432C3A0ECDFE80B42266BF5"
+scriptPostMaxTime = "300"
+
+[FreeDabfix\version\0\default\File]
+checkUpdate = "true"
+CheckSumSize = "524288"
+CheckSum = "E5FA44F2B31C1FB553B6021E7360D07D5D91FF5E"
+FileSize = "2"
+Version = "1"
+Source = "DABFixed"
+Destination = "/HBpersistence/SWDL/DABFixed"
+DisplayName = "ExceptionList"
+DeleteDestinationDirBeforeCopy = "false"
+UpdateOnlyExisting = "false"
+
+[Signature]
+signature1 = "00000000000000000000000000000000"
+signature2 = "00000000000000000000000000000000"
+signature3 = "00000000000000000000000000000000"
+signature4 = "00000000000000000000000000000000"
+signature5 = "00000000000000000000000000000000"
+signature6 = "000000000001425e5c7163263c31e31f"
+signature7 = "1b987395f57a27b47309ad32142e4f05"
+signature8 = "32e0edc305447c69c6585519e93b250b"
