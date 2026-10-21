@@ -1,6 +1,6 @@
 # DAB Fix for Harman MHI2 Units
 
-**Source:** Digital Eliteboard – *Kostenloses DABFix für Harman MHI2 Modelle*
+**Source:** Digital Eliteboard (https://www.digital-eliteboard.com/threads/kostenloses-dabfix-fuer-harmann-mhi2-modelle.541645/)
 
 ## Compatibility
 
@@ -14,6 +14,7 @@ This fix is intended **only for Harman MHI2 units equipped with DAB**.
 4. Open the **Red Engineering Menu**.
 5. Start the update process.
 6. Follow the on-screen instructions until the process is complete.
+7. Check Sound and Volume Setting
 
 ## Requirements
 
