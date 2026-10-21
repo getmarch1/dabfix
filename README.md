@@ -8,6 +8,12 @@ Not my work - just added to this github page for research purposes!
 
 This fix is intended **only for Harman MHI2 units equipped with DAB** - MHI2,MHI2Q (AUDI, PORSCHE, SKODA,SEAT,BENTLEY, VW)
 
+## Changes
+
+v1 Initial release
+
+v2 Now with Autostart
+
 ## Installation Instructions
 
 1. Prepare an SD card formatted as **FAT32**.
@@ -44,3 +50,5 @@ This fix is intended **only for Harman MHI2 units equipped with DAB** - MHI2,MHI
 Use this procedure only with compatible units. Proceed at your own risk and ensure that all update files are correct for your specific device.
 
 Incorrect or incompatible update files may cause malfunctions or render the infotainment system unusable.
+
+
