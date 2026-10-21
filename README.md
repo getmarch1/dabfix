@@ -23,6 +23,20 @@ This fix is intended **only for Harman MHI2 units equipped with DAB**.
 - All required subfolders and update files
 - Compatible Harman MHI2 DAB unit
 
+## Benefits
+
+- **Faster DAB+ startup:** DAB radio stations become available much sooner after starting the vehicle. Some users report that DAB+ is available almost immediately.
+- **Frees up storage space:** Removes unnecessary files, obsolete data, and crash dumps from the system's persistence partition.
+- **Improved system responsiveness:** Can help reduce sluggish behavior caused by a full persistence partition.
+- **Potentially improved stability:** Users have reported fewer restarts and, in some cases, recovery of previously malfunctioning infotainment systems.
+- **Broad MHI2 compatibility:** Reported to support MHI2 and MHI2Q units across multiple vehicle brands, subject to the device's configuration.
+
+## Important Notes
+
+- The fix does not add DAB hardware or enable DAB on units that lack the required hardware.
+- Sound settings may be reset after installation. Check your audio and surround settings afterward.
+- Benefits depend on the device's condition and configuration. Improved stability is not guaranteed.
+
 ## Disclaimer
 
 Use this procedure only with compatible units. Proceed at your own risk and ensure that all update files are correct for your specific device.
